@@ -1,3 +1,5 @@
+package java8;
+
 import java.util.Arrays;
 
 public class StreamMap {
